@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Niklas Roschewsky / MMM Files"
+title                    : "Niklas Roschewsky"
 title_separator          : "-"
 name                     : &name "Niklas Roschewsky"
 description              : &description "Access to my presentation and manuscript"
