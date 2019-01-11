@@ -1,7 +1,3 @@
-% Niklas Roschewsky
-% Niklas Roschewsky
-% 01/15/2019
-
 # Niklas Roschewsky
 ### Contact
 Email: roschewsky@berkeley.edu
