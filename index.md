@@ -1,4 +1,3 @@
-# Niklas Roschewsky
 ### Contact
 Email: roschewsky@berkeley.edu
 [LinkedIn](linkedin.com/in/roschewsky)
