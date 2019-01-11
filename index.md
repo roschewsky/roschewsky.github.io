@@ -1,5 +1,5 @@
 ### Contact
-Email: roschewsky@berkeley.edu | [LinkedIn](linkedin.com/in/roschewsky) | [Google Scholar](https://scholar.google.com/citations?user=svC_VZkAAAAJ&hl=en)
+roschewsky@berkeley.edu | [LinkedIn](linkedin.com/in/roschewsky) | [Google Scholar](https://scholar.google.com/citations?user=svC_VZkAAAAJ&hl=en)
 
 ### MMM/Intermag talk
 [Presentation Slides](MMM_Roschewsky.pdf)
