@@ -3,7 +3,7 @@
 
 
 
-### Manuuscript: Spin-Orbit Torque and Nernst Effect in Bi-Sb/Co Heterostructures
+### Manuscript: Spin-Orbit Torque and Nernst Effect in Bi-Sb/Co Heterostructures
 [https://arxiv.org/pdf/1810.05674](https://arxiv.org/pdf/1810.05674)
 
 ### Contact
